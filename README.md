@@ -1,7 +1,7 @@
 # Stopwatch Web Application 🚀
 
 ## Overview 🌟
-Welcome to Prodigy Web Development Project 02! This project showcases a comprehensive web development task that includes various features and functionalities aimed at demonstrating best practices in web design and development.
+This project showcases a comprehensive web development task that includes various features and functionalities aimed at demonstrating best practices in web design and development.
 
 ## Features ✨
 - **Responsive Design** 📱: The web application is fully responsive and works seamlessly on devices of all sizes.
